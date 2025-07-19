@@ -1,0 +1,5 @@
+deepeval
+langchain-openai
+openai
+sentence-transformers
+langchain-community
