@@ -7,7 +7,7 @@
 .env
 .deepeval
 __pycache__/
-
+.vector_db
 ### Git ###
 
 *.orig

@@ -1,0 +1,242 @@
+[
+    {
+        "input": "Fold pie crusts, add apple filling, seal, bake until golden for a sweet handheld treat.",
+        "actual_output": null,
+        "expected_output": "Fold pie crusts, add apple filling, seal with warm water, and bake at 375°F for 30 minutes until golden brown for a sweet handheld treat.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and bake until golden.",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts, cut the crusts into smaller pieces, add apple mixture on half of each, fold over, seal with warm water, make slits in the top, and bake at 375°F for 30 minutes until golden brown.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Fold pie crusts, add apple filling, seal, bake until golden for a sweet handheld treat.",
+        "actual_output": null,
+        "expected_output": "Fold pie crusts, add apple filling, seal with warm water, and bake at 375°F for 30 minutes until golden brown for a sweet handheld treat.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and bake until golden.",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts, cut the crusts into smaller pieces, add apple mixture on half of each, fold over, seal with warm water, make slits in the top, and bake at 375°F for 30 minutes until golden brown.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and apple mixture?",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts and apple mixture, follow these steps:  \n1. Spread apple mixture evenly on half of each pie crust.  \n2. Fold over the other side of the crust and press the edges with a little warm water to seal.  \n3. Cut small slits in the top of the crust.  \n4. Bake at 375°F for 30 minutes until the crust is golden brown.  \n5. Serve warm.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What is the initial step for preparing apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The initial step for preparing apple turnovers is to spread the apple mixture evenly on half of each pie crust.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Fold pie crusts, add apple filling, seal, bake until golden for a sweet handheld treat.",
+        "actual_output": null,
+        "expected_output": "Fold pie crusts, add apple filling, seal with warm water, and bake at 375°F for 30 minutes until golden brown for a sweet handheld treat.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and bake until golden.",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts, cut the crusts into smaller pieces, add apple mixture on half of each, fold over, seal with warm water, make slits in the top, and bake at 375°F for 30 minutes until golden brown.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and apple mixture?",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts and apple mixture, follow these steps:  \n1. Spread apple mixture evenly on half of each pie crust.  \n2. Fold over the other side of the crust and press the edges with a little warm water to seal.  \n3. Cut small slits in the top of the crust.  \n4. Bake at 375°F for 30 minutes until the crust is golden brown.  \n5. Serve warm.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What is the initial step for preparing apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The initial step for preparing apple turnovers is to spread the apple mixture evenly on half of each pie crust.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What ingredients are needed to make apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The ingredients needed to make apple turnovers are: 2 prepared 15 oz. pie crusts, 3 cups thinly sliced apples with peel, 1/2 cup brown sugar, 1 tsp. cinnamon, 2 tsp. fresh lemon juice, 2 Tbsp. flour, 2 Tbsp. sugar, 1/2 tsp. salt, 1 tsp. vanilla, and 2 Tbsp. butter.",
+        "context": [
+            "Apple Turnovers\n\n2 prepared 15 oz. pie crusts\n3 cups thinly sliced apples with peel\n1/2 cup brown sugar\n1 tsp. cinnamon\n2 tsp. fresh lemon juice\n2 Tbsp. flour\n2 Tbsp. sugar\n1/2 tsp. salt\n1 tsp. vanilla\n2 Tbsp. Butter\n\nLet pie crust stand at room temperature while preparing the other\ningredients. Combine apples, brown sugar, cinnamon and lemon \njuice",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Compare the ingredients and steps for making apple filling in turnovers with those for a regular apple pie.",
+        "actual_output": null,
+        "expected_output": "The apple filling for turnovers and regular apple pie share similar ingredients, such as apples, brown sugar, cinnamon, lemon juice, flour, sugar, salt, vanilla, and butter. However, turnovers use pie crusts to enclose the filling, while a regular apple pie uses a pre-baked crust. The steps for the filling are similar, but turnovers require spreading the filling on pie crusts and folding them, whereas a regular apple pie involves pouring the filling into a crust and baking it.",
+        "context": [
+            "Apple Turnovers\n\n2 prepared 15 oz. pie crusts\n3 cups thinly sliced apples with peel\n1/2 cup brown sugar\n1 tsp. cinnamon\n2 tsp. fresh lemon juice\n2 Tbsp. flour\n2 Tbsp. sugar\n1/2 tsp. salt\n1 tsp. vanilla\n2 Tbsp. Butter\n\nLet pie crust stand at room temperature while preparing the other\ningredients. Combine apples, brown sugar, cinnamon and lemon \njuice",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Fold pie crusts, add apple filling, seal, bake until golden for a sweet handheld treat.",
+        "actual_output": null,
+        "expected_output": "Fold pie crusts, add apple filling, seal with warm water, and bake at 375°F for 30 minutes until golden brown for a sweet handheld treat.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and bake until golden.",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts, cut the crusts into smaller pieces, add apple mixture on half of each, fold over, seal with warm water, make slits in the top, and bake at 375°F for 30 minutes until golden brown.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and apple mixture?",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts and apple mixture, follow these steps:  \n1. Spread apple mixture evenly on half of each pie crust.  \n2. Fold over the other side of the crust and press the edges with a little warm water to seal.  \n3. Cut small slits in the top of the crust.  \n4. Bake at 375°F for 30 minutes until the crust is golden brown.  \n5. Serve warm.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What is the initial step for preparing apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The initial step for preparing apple turnovers is to spread the apple mixture evenly on half of each pie crust.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What ingredients are needed to make apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The ingredients needed to make apple turnovers are: 2 prepared 15 oz. pie crusts, 3 cups thinly sliced apples with peel, 1/2 cup brown sugar, 1 tsp. cinnamon, 2 tsp. fresh lemon juice, 2 Tbsp. flour, 2 Tbsp. sugar, 1/2 tsp. salt, 1 tsp. vanilla, and 2 Tbsp. butter.",
+        "context": [
+            "Apple Turnovers\n\n2 prepared 15 oz. pie crusts\n3 cups thinly sliced apples with peel\n1/2 cup brown sugar\n1 tsp. cinnamon\n2 tsp. fresh lemon juice\n2 Tbsp. flour\n2 Tbsp. sugar\n1/2 tsp. salt\n1 tsp. vanilla\n2 Tbsp. Butter\n\nLet pie crust stand at room temperature while preparing the other\ningredients. Combine apples, brown sugar, cinnamon and lemon \njuice",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Compare the ingredients and steps for making apple filling in turnovers with those for a regular apple pie.",
+        "actual_output": null,
+        "expected_output": "The apple filling for turnovers and regular apple pie share similar ingredients, such as apples, brown sugar, cinnamon, lemon juice, flour, sugar, salt, vanilla, and butter. However, turnovers use pie crusts to enclose the filling, while a regular apple pie uses a pre-baked crust. The steps for the filling are similar, but turnovers require spreading the filling on pie crusts and folding them, whereas a regular apple pie involves pouring the filling into a crust and baking it.",
+        "context": [
+            "Apple Turnovers\n\n2 prepared 15 oz. pie crusts\n3 cups thinly sliced apples with peel\n1/2 cup brown sugar\n1 tsp. cinnamon\n2 tsp. fresh lemon juice\n2 Tbsp. flour\n2 Tbsp. sugar\n1/2 tsp. salt\n1 tsp. vanilla\n2 Tbsp. Butter\n\nLet pie crust stand at room temperature while preparing the other\ningredients. Combine apples, brown sugar, cinnamon and lemon \njuice",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Fold pie crusts, add apple filling, seal, bake until golden for a sweet handheld treat.",
+        "actual_output": null,
+        "expected_output": "Fold pie crusts, add apple filling, seal with warm water, and bake at 375°F for 30 minutes until golden brown for a sweet handheld treat.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and bake until golden.",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts, cut the crusts into smaller pieces, add apple mixture on half of each, fold over, seal with warm water, make slits in the top, and bake at 375°F for 30 minutes until golden brown.",
+        "context": [
+            " pie crusts\ninto smaller pieces and make individual turnovers.  You can serve\nthese with ice cream or frozen yogurt.\n\nThe Skinny:  This recipe does have some sugar in it but it is not\nreally that bad.  Leave off the ice cream and you will be doing\nfine. ",
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "How to make apple turnovers using pie crusts and apple mixture?",
+        "actual_output": null,
+        "expected_output": "To make apple turnovers using pie crusts and apple mixture, follow these steps:  \n1. Spread apple mixture evenly on half of each pie crust.  \n2. Fold over the other side of the crust and press the edges with a little warm water to seal.  \n3. Cut small slits in the top of the crust.  \n4. Bake at 375°F for 30 minutes until the crust is golden brown.  \n5. Serve warm.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What is the initial step for preparing apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The initial step for preparing apple turnovers is to spread the apple mixture evenly on half of each pie crust.",
+        "context": [
+            " out pie crusts on ungreased cookie sheet.\nSpread apple mixture evenly on half of each crust.  Fold over\nother side of crust and press edges with a little warm water to\nseal.  Cut small slits in top of crust and bake at 375 degrees\nfor 30 minutes until crust is golden brown.  Serve warm.  These\nturnovers will be a real hit.  If you would like, cut the pie crusts\ninto smaller pieces and make individual",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "What ingredients are needed to make apple turnovers?",
+        "actual_output": null,
+        "expected_output": "The ingredients needed to make apple turnovers are: 2 prepared 15 oz. pie crusts, 3 cups thinly sliced apples with peel, 1/2 cup brown sugar, 1 tsp. cinnamon, 2 tsp. fresh lemon juice, 2 Tbsp. flour, 2 Tbsp. sugar, 1/2 tsp. salt, 1 tsp. vanilla, and 2 Tbsp. butter.",
+        "context": [
+            "Apple Turnovers\n\n2 prepared 15 oz. pie crusts\n3 cups thinly sliced apples with peel\n1/2 cup brown sugar\n1 tsp. cinnamon\n2 tsp. fresh lemon juice\n2 Tbsp. flour\n2 Tbsp. sugar\n1/2 tsp. salt\n1 tsp. vanilla\n2 Tbsp. Butter\n\nLet pie crust stand at room temperature while preparing the other\ningredients. Combine apples, brown sugar, cinnamon and lemon \njuice",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    },
+    {
+        "input": "Compare the ingredients and steps for making apple filling in turnovers with those for a regular apple pie.",
+        "actual_output": null,
+        "expected_output": "The apple filling for turnovers and regular apple pie share similar ingredients, such as apples, brown sugar, cinnamon, lemon juice, flour, sugar, salt, vanilla, and butter. However, turnovers use pie crusts to enclose the filling, while a regular apple pie uses a pre-baked crust. The steps for the filling are similar, but turnovers require spreading the filling on pie crusts and folding them, whereas a regular apple pie involves pouring the filling into a crust and baking it.",
+        "context": [
+            "Apple Turnovers\n\n2 prepared 15 oz. pie crusts\n3 cups thinly sliced apples with peel\n1/2 cup brown sugar\n1 tsp. cinnamon\n2 tsp. fresh lemon juice\n2 Tbsp. flour\n2 Tbsp. sugar\n1/2 tsp. salt\n1 tsp. vanilla\n2 Tbsp. Butter\n\nLet pie crust stand at room temperature while preparing the other\ningredients. Combine apples, brown sugar, cinnamon and lemon \njuice",
+            " brown sugar, cinnamon and lemon \njuice in pan. Add 2 Tbsp. water to allow easy mixing.  Cook\nover medium heat until mixture bubbles.  Cover and continue cooking\nover low heat for 10 minutes stirring occasionally.\nGradually add flour, sugar and salt to mixture and cook until the \nmixture begins to thicken.  Add in vanilla and butter and remove \nmixture from heat.  Spread out pie crusts on ungreased cookie sheet"
+        ],
+        "source_file": "../../Datasets/txt_example.txt"
+    }
+]
