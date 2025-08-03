@@ -1,0 +1,76 @@
+2025-08-03 10:00:47,962 - INFO - Initializing language models and embedding models...
+2025-08-03 10:01:11,998 - INFO - Initializing language models and embedding models...
+2025-08-03 10:02:10,686 - INFO - Initializing language models and embedding models...
+2025-08-03 10:02:26,854 - INFO - Starting document loading and chunking process...
+2025-08-03 10:02:27,108 - INFO - Text splitter configured - chunk_size: 1000, overlap: 0
+2025-08-03 10:02:27,115 - INFO - Starting embedding generation and context selection...
+2025-08-03 10:02:27,117 - INFO - Extracted content from 1 chunks
+2025-08-03 10:02:36,028 - INFO - PyTorch version 2.6.0+cu118 available.
+2025-08-03 10:02:36,509 - INFO - Load pretrained SentenceTransformer: PartAI/Tooka-SBERT-V2-Large
+2025-08-03 10:02:46,932 - INFO - Reference chunk selected: index 0
+2025-08-03 10:02:46,938 - INFO - Context selection completed:
+2025-08-03 10:02:46,939 - INFO - - Reference chunk: 1
+2025-08-03 10:02:46,940 - INFO - - Similar chunks found: 1
+2025-08-03 10:02:46,941 - INFO - - Total contexts: 1
+2025-08-03 10:02:46,942 - INFO - Starting initial query generation...
+2025-08-03 10:02:51,124 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:02:51,139 - INFO - Starting query evolution process...
+2025-08-03 10:02:51,140 - INFO - Evolution configuration:
+2025-08-03 10:02:51,140 - INFO - - Original query: 'what is recipe of Apple Turnovers'
+2025-08-03 10:02:51,141 - INFO - - Evolution steps: 3
+2025-08-03 10:02:51,142 - INFO - - Context pieces: 1
+2025-08-03 10:02:51,144 - INFO - Loaded 3 evolution templates
+2025-08-03 10:02:51,146 - INFO - Evolution step 1: Using Reasoning template
+2025-08-03 10:02:51,531 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:02:51,533 - INFO - Evolution step 1 completed successfully
+2025-08-03 10:02:51,534 - INFO - Evolution step 2: Using Reasoning template
+2025-08-03 10:02:51,793 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:02:51,795 - INFO - Evolution step 2 completed successfully
+2025-08-03 10:02:51,795 - INFO - Evolution step 3: Using Reasoning template
+2025-08-03 10:02:52,053 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:02:52,055 - INFO - Evolution step 3 completed successfully
+2025-08-03 10:02:52,058 - INFO - Final evolved query: 'How do you prepare apple turnovers using two pie crusts and what steps ensure a golden, flaky crust?'
+2025-08-03 10:02:52,059 - INFO - Starting expected output generation...
+2025-08-03 10:02:52,061 - INFO - Generating expected output for query: 'How do you prepare apple turnovers using two pie crusts and what steps ensure a golden, flaky crust?'
+2025-08-03 10:02:55,267 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:02:55,271 - INFO - Creating synthetic data structure...
+2025-08-03 10:02:55,276 - INFO - Synthetic dataset initialized with 1 entry
+2025-08-03 10:02:55,277 - INFO - Starting advanced synthetic dataset generation with DeepEval...
+2025-08-03 10:02:55,278 - INFO - Processing document: ../../Datasets/txt_example.txt
+2025-08-03 10:02:56,892 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-03 10:02:57,202 - INFO - Load pretrained SentenceTransformer: PartAI/Tooka-SBERT-V2-Large
+2025-08-03 10:03:02,826 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:02,837 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:02,838 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:05,525 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:05,663 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:05,665 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:06,380 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:06,584 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:06,595 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:07,204 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:07,710 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:07,712 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:07,916 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:08,223 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:08,225 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:08,258 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:08,837 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:09,247 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:09,662 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:09,699 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:09,822 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:10,201 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:10,960 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:11,040 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:11,445 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:11,446 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:12,320 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:12,322 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:13,095 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:13,446 - INFO - HTTP Request: POST http://localhost:11456/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 10:03:14,271 - INFO - Generated 24 synthetic data entries using DeepEval
+2025-08-03 10:03:14,303 - INFO - Synthetic dataset generation pipeline completed successfully
+2025-08-03 10:03:38,767 - INFO - Initializing language models and embedding models...
+2025-08-03 10:04:28,012 - INFO - Starting document loading and chunking process...
+2025-08-03 10:04:28,522 - INFO - Text splitter configured - chunk_size: 1000, overlap: 0

@@ -19,12 +19,12 @@ def get_chat_openai():
         max_retries=3,
         max_completion_tokens=4096,
         request_timeout=60,
-        model_kwargs={
-            "extra_body": {
-                "chat_template_kwargs": {"enable_thinking": False},
+        # model_kwargs={
+        #     "extra_body": {
+        #         "chat_template_kwargs": {"enable_thinking": False},
+        #
+        #     },
 
-            },
-
-        },
+        # },
 
     )
